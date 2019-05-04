@@ -52,12 +52,6 @@
 #include <SPI.h>
 #include <inttypes.h>
 
-
-// if print debug information
-#ifndef DEBUG_EN
-#define DEBUG_EN        1
-#endif
-
 // Begin mt
 
 #define TIMEOUTVALUE    50
